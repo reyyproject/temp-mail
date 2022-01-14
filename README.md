@@ -9,7 +9,7 @@ pkg update && pkg upgrade
 pkg install python
 pkg install git
 python3 -m pip install requests
-git clone https://github.com/hekelpro/temp-mail
+git clone https://github.com/reyyproject/temp-mail
 cd temp-mail
 python temp.py
 ```
@@ -20,9 +20,9 @@ python temp.py
 + Support Message with emote, html
 
 # Mau Melihat Hasilnya?
-![img](https://github.com/hekelpro/temp-mail/blob/main/bukti.jpg)
+![img](https://raw.githubusercontent.com/reyyproject/temp-mail/f9e72ead7ec91a019759af548f327ab25e9196be/temp.jpg)
 
 # Thanks to
 ```
-All Member XiuzCode
+Wanz Xploit
 ```
